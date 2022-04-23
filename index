@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Это моя первая страница">
+    <meta name="author" content="Rashid">
+    <meta name="robots" content="all">
+
+    <meta property="og:title" content="Это моя первая страница">
+
+    <title>Рашид Насиров - Веб-разработчик</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+
+            <h1>Обо мне</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora iusto nobis, officia vel placeat, illo numquam ad ea sapiente error.</p>
+            <input type="submit" value="Скачать резюме">
+
+
+            <h1>Что я умею</h1>
+
+
+            <h2>Веб-дизайн</h2>
+            <p>Lorem ipsum dolor sit amet.</p>
+
+            <h2>Разработка</h2>
+            <p>Lorem ipsum dolor sit amet.</p>
+
+            <h2>CEO-оптимизация</h2>
+            <p>Lorem ipsum dolor sit amet.</p>
+
+            <h2>Маркетинг</h2>
+            <p>Lorem ipsum dolor sit amet.</p>
+
+
+            <h1>Кейсы</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, obcaecati.</p>
+            <img src="https://sun9-80.userapi.com/impf/ADzDKfgbwXpNcIt9GimjNAaVyEZJ7GbuRbZ-fg/4bSPL62SdS0.jpg?size=928x492&quality=96&sign=31ee08841400b3cf70b315436c97a135&type=album" alt="">
+
+
+            <h2>CLIENT</h2>
+            <p>Какая-то компания</p>
+            <h2>WEBSITE</h2>
+            <p>www.com</p>
+            <h2>Название проекта</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, dolores dignissimos, voluptas omnis explicabo officia quasi nesciunt distinctio quam ducimus.</p>
+
+
+            <h1>Расчет стоимости</h1>
+
+            <h2>Тип сайта</h2>
+            <select name="123" id="123">
+                <option value="option1">Выберите пункт</option>
+                <option value="option2">123123123</option>
+            </select>
+
+            <h2>Дизайн</h2>
+            <select name="1234" id="1234">
+                <option value="option3">Выберите пункт</option>
+                <option value="option4">123123123</option>
+            </select>
+
+            <h2>Адаптивность</h2>
+            <select name="12345" id="12345">
+                <option value="option5">Выберите пункт</option>
+                <option value="option6">123123123</option>
+            </select>
+
+            <h2>Сроки</h2>
+            <h2>Стоимость</h2>
+
+            <h1>Немного статистики</h1>
+            <h2>120</h2>
+            <p>Счастливых клиентов</p>
+
+
+            <h2>4,600</h2>
+            <p>Часов работы</p>
+
+            <h2>340</h2>
+            <p>Проектов завершено</p>
+
+            <h2>23</h2>
+            <p>Наград получено</p>
+
+
+            <h1>Отзывы</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas nulla, nihil voluptate, totam deserunt a vero porro sunt dicta amet sequi assumenda itaque commodi asperiores nisi, provident sit tempora aperiam!</p>
+            <p><b>Михаил</b>,Ген Директор ПАО "Газпром"</p>
+
+            <h1>Мои контакты</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, omnis.</p>
+            <h2>Город</h2>
+
+            <h2>Почта</h2>
+
+            <h2>Телефон</h2>
+
+            <h1>Оставьте мне сообщение</h1>
+            <form action="123">
+                <input type="Имя" name="text_input" value="" placeholder="Имя">
+                <input type="email" name="text_input1" value="" placeholder="Email">
+                <input type="Сообщение" name="text_input2" value="" placeholder="Сообщение">
+                <input type="submit" value="Отправить">
+            </form>
+
+
+
+
+
+
+        </nav>
+    </header>
+
+
+
+</body>
+
+</html>
