@@ -1,1 +1,28 @@
+@charset "UTF-8";
 
+body,
+html {
+    
+}
+
+body {
+    background-color: #fff;
+}
+
+.sidebar {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-align: stretch;
+    align-items: center;
+    height: 100%;
+    width: 96px;
+    padding-top: 24px;
+    border-right: 1px solid #fafafa;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000
+}
