@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+  background-color: #f8f8f6;
+  margin: 0;
+}
+
+p {
+  font-family: Roboto, Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover {
+  color: blueviolet;
+}
+
+.policy-header {
+  font-weight: 500;
+  font-size: 15px;
+  display: block;
+}
+
+.list-item {
+  display: block;
+  margin-top: 8px;
+  margin-left: 14px;
+}
+
+.list-item-last {
+  display: block;
+  margin-top: 8px;
+  margin-left: 14px;
+  margin-bottom: 8px;
+}
+
+.page {
+  background-color: white;
+  max-width: 632px;
+  border-radius: 5px;
+  padding: 16px 16px;
+  margin: 16px auto;
+  box-shadow: inset;
+  box-shadow: 0px 0px 1px 1px rgb(228, 227, 227);
+}
